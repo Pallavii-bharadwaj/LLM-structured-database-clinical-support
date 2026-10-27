@@ -1,7 +1,5 @@
-# LLM-structured-database-clinical-support
-MSc Data Science dissertation exploring LLM integration with structured databases for clinical support.
 # Integrated Database and Large Language Modelling for Clinical Support
-
+# Distinction 81/100
 A feasibility study: can data from different hospitals be harmonised into one format, used to train a model that suggests a breast cancer treatment group, and paired with a guideline-grounded explanation that is honest about its own limits?
 
 MSc Data Science dissertation, University of York. Author: Pallavi Bharadwaj. Supervisor: Dr Kofi Appiah.
